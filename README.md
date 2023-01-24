@@ -1,4 +1,4 @@
-<h1> Hi There 👋 I'm a WebDev Student<h1>
+<h1> Hi There 👋 I'm a Full Stack Developer<h1>
 <h3>I have a love for tech and Colorado<h3>
   
 - 🔭 I’m currently working on an interactive minigame website
